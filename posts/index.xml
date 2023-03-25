@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on archive</title>
+    <title>Posts on archived</title>
     <link>http://henriquealves04.github.io/posts/</link>
-    <description>Recent content in Posts on archive</description>
+    <description>Recent content in Posts on archived</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 25 Mar 2023 16:04:30 +0000</lastBuildDate><atom:link href="http://henriquealves04.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
