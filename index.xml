@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>archive</title>
+    <link>http://henriquealves04.github.io/</link>
+    <description>Recent content on archive</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 Mar 2023 16:04:30 +0000</lastBuildDate><atom:link href="http://henriquealves04.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>about me</title>
+      <link>http://henriquealves04.github.io/about/</link>
+      <pubDate>Sat, 25 Mar 2023 16:16:30 +0000</pubDate>
+      
+      <guid>http://henriquealves04.github.io/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>contact me</title>
+      <link>http://henriquealves04.github.io/contact/</link>
+      <pubDate>Sat, 25 Mar 2023 16:16:30 +0000</pubDate>
+      
+      <guid>http://henriquealves04.github.io/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post1</title>
+      <link>http://henriquealves04.github.io/posts/post1/</link>
+      <pubDate>Sat, 25 Mar 2023 16:04:30 +0000</pubDate>
+      
+      <guid>http://henriquealves04.github.io/posts/post1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
