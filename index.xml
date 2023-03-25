@@ -26,12 +26,12 @@
     </item>
     
     <item>
-      <title>Post1</title>
+      <title>Post 1</title>
       <link>http://henriquealves04.github.io/posts/post1/</link>
       <pubDate>Sat, 25 Mar 2023 16:04:30 +0000</pubDate>
       
       <guid>http://henriquealves04.github.io/posts/post1/</guid>
-      <description></description>
+      <description>this is the first post on my website</description>
     </item>
     
   </channel>
