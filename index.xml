@@ -35,5 +35,14 @@
 just a test</description>
     </item>
     
+    <item>
+      <title>Post 2</title>
+      <link>http://henriquealves04.github.io/posts/post2/</link>
+      <pubDate>Sat, 25 Mar 2023 16:04:30 +0000</pubDate>
+      
+      <guid>http://henriquealves04.github.io/posts/post2/</guid>
+      <description>this is just another post, nothing official just a test</description>
+    </item>
+    
   </channel>
 </rss>
